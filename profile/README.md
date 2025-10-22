@@ -12,7 +12,6 @@
 ---
 
 [![Website](https://img.shields.io/badge/Site-versonhos.com.br-6EC1E4?style=for-the-badge)](https://versonhos.com.br)
-[![Contato](https://img.shields.io/badge/Email-contato@versonhos.com.br-4DB6AC?style=for-the-badge)](mailto:contato@versonhos.com.br)
 [![Linktree](https://img.shields.io/badge/Linktree-versonhos-43E55E?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/versonhos)
 
 </div>
@@ -57,10 +56,10 @@ Com **óculos de realidade virtual**, levamos o mundo até o leito das crianças
 |------|--------|
 | **Heitor Sales** | PO, Financeiro e Desenvolvedor Full Stack |
 | **João Pedro** | Scrum Master e Front-End |
-| **Vitor Mota** | Designer, Front-End e Marketing |
+| **Vitor Mota** | UX/UI, Front-End e Marketing |
 | **Nicolas Coelho** | Desenvolvedor Full Stack |
 | **Mariana Ocireu** | Desenvolvedora Full Stack |
-| **Maurício** | UX/UI e Design de Interface |
+| **Maurício** | UX/UI e Desenvolvedor Full Stack |
 
 ---
 
