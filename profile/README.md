@@ -57,7 +57,7 @@ Com **óculos de realidade virtual**, levamos o mundo até o leito das crianças
 |------|--------|
 | **Heitor Sales** | PO, Financeiro e Desenvolvedor Full Stack |
 | **João Pedro** | Scrum Master e Front-End |
-| **Vitor Mota** | Designer e Front-End |
+| **Vitor Mota** | Designer, Front-End e Marketing |
 | **Nicolas Coelho** | Desenvolvedor Full Stack |
 | **Mariana Ocireu** | Desenvolvedora Full Stack |
 | **Maurício** | UX/UI e Design de Interface |
