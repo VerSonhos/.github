@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.png" alt="Banner VerSonhos" width="100%" style="border-radius:12px;box-shadow:0 2px 8px rgba(0,0,0,0.1);"/>
+![Banner](./assets/banner.png)
 
 # 🌈 VerSonhos  
 ### _Realidades que curam, emoções que transformam._
