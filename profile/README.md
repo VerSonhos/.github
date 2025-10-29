@@ -11,8 +11,11 @@
 
 ---
 
-[![Website](https://img.shields.io/badge/Site-versonhos.com.br-6EC1E4?style=for-the-badge)](https://versonhos.com.br)
+[![Website](https://img.shields.io/badge/Site-versonhos.com.br-6EC1E4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://versonhos.com.br)
 [![Linktree](https://img.shields.io/badge/Linktree-versonhos-43E55E?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/versonhos)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-VerSonhos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/versonhos/about/?viewAsMember=true)
+[![Instagram](https://img.shields.io/badge/Instagram-versonhos.oficial-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/versonhos.oficial/)
+
 
 </div>
 
