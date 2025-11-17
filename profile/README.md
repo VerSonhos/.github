@@ -62,7 +62,7 @@ Com **óculos de realidade virtual**, levamos o mundo até o leito das crianças
 | **Vitor Mota** | UX/UI, Front-End e Marketing |
 | **Nicolas Coelho** | Desenvolvedor Full Stack |
 | **Mariana Ocireu** | Desenvolvedora Full Stack |
-| **Maurício** | UX/UI e Desenvolvedor Full Stack |
+| **Maurício** | Desenvolvedor Full Stack |
 
 ---
 
